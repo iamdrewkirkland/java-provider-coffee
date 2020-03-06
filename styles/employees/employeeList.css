@@ -1,0 +1,12 @@
+.employeeList {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.employeeList__container {
+    border: 1px rgb(48, 48, 48) solid;
+    width: 300px;
+    text-align: center;
+}
